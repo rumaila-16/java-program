@@ -1,7 +1,6 @@
-class Demo
-{
-   public static void main(String[] args)
- {
-   System.out.println("I WILL START MY OWN COMPANY");
- }
-} 
+
+public class Demo {
+   public static void main(String[] args) {
+	   System.out.println("I will start my own company");
+   }
+}
