@@ -1,0 +1,33 @@
+public class Demo {
+   public static void main(String[] args) {
+	   var alarm = true;
+	   var wakeup = true;
+	   var bathroom = true;
+	   var bath = true;
+	   var breakfast = true;
+	   var learn = true;
+
+if(alarm) {
+	System.out.println("wake up");
+}
+else {
+	System.out.println("Dont wake up");
+}
+  System.out.println("Go to bathroom");
+if(bath) {
+  System.out.println("Go TO bath");
+}
+else {
+	System.out.println("Dont bath");
+}  
+if(breakfast) {
+	System.out.println("eat breakfast");
+}
+else {
+	System.out.println("Dont eat breakfast");
+}
+  System.out.println("go to learn");
+}
+	   
+   }
+
